@@ -1,2 +1,2 @@
-# vinda
+# vinda -pm portfolio
 aggregated vintage marketplace
